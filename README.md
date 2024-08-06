@@ -5,8 +5,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Fraudulent Footprints: Anomaly Detection in Credit Card Transactions ](https://github.com/dbogusz/Fraudulent-Footprints)
   *numpy, pandas, seaborn, matplotlib, scikit-learn, imbalanced-learn*
-  - Developed a Support Vector Classifier (SVC) model for real-time detection of fraudulent transactions, achieving a recall score of 0.82 through cross-validation and optimized feature selection and deployed it as a user-friendly application with Streamlit.
+  - Developed a Support Vector Classifier (SVC) model for real-time detection of fraudulent transactions, achieving a recall score of 0.82 through cross-validation and optimized feature selection.
   - Managed data imbalance effectively with SMOTE and random undersampling, prioritising recall and F1-score metrics.
+  - Deployed as an user-friendly application with [Streamlit](https://fraudulentfootprints.streamlit.app/). 
 
 - [Craftsverse: Insights into the Etsy Cosplay Market](https://github.com/dbogusz/Craftsverse)
   *BeautifulSoup, Etsy API, SQL, numpy, pandas, scikit-learn, NLTK, matplotlib*
