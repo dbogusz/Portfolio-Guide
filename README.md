@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
   *numpy, pandas, seaborn, matplotlib, scikit-learn, imbalanced-learn*
   - Developed a Support Vector Classifier (SVC) model for real-time detection of fraudulent transactions, achieving a recall score of 0.82 through cross-validation and optimized feature selection.
   - Managed data imbalance effectively with SMOTE and random undersampling, prioritising recall and F1-score metrics.
-  - Deployed as an user-friendly application with [Streamlit](https://fraudulentfootprints.streamlit.app/). 
+  - Deployed as an user-friendly [application](https://fraudulentfootprints.streamlit.app/) with Streamlit.
 
 - [Craftsverse: Insights into the Etsy Cosplay Market](https://github.com/dbogusz/Craftsverse)
   *BeautifulSoup, Etsy API, SQL, numpy, pandas, scikit-learn, NLTK, matplotlib*
