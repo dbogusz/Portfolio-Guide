@@ -12,4 +12,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Craftsverse: Insights into the Etsy Cosplay Market](https://github.com/dbogusz/Craftsverse)
   *BeautifulSoup, Etsy API, SQL, numpy, pandas, scikit-learn, NLTK, matplotlib*
   - Built an analytics platform for the crafts market to identify trends, predict demand and optimise pricing for cosplay goods, using correlation analysis, regression and clustering techniques, topic modelling and keyword extraction. 
-  -	Scraped 350,000 listings with Etsy API, capturing diverse data types, including text, images, seller profiles, and customer reviews, then cleaned and pre-processed data in MySQL.  
+  -	Scraped 350,000 listings with Etsy API, capturing diverse data types, including text, images, seller profiles, and customer reviews, then cleaned and pre-processed data in MySQL.
+ 
+ - [InsightFit: Predicting Gym Membership Interest through Personal Data Analysis](https://github.com/dbogusz/InsightFit)
+  *numpy, pandas, matplotlib, seaborn, scikit-learn, LightGBM, XGBoost*
+  - Developed a predictive model to estimate gym membership interest by analyzing personal attributes, guiding targeted marketing for a gym chain expanding into Poland.
+  - Conducted extensive feature engineering, including binary encoding of hobbies and K-means clustering, to enhance model interpretability.
+  - Achieved a recall of 0.75 for interested individuals with LightGBM, highlighting key insights into subscriber demographics and optimal target profiles.
